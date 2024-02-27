@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RafDnevnjakProject</string>
+    <string name="login_username">Korisnicko ime</string>
+    <string name="login_login">Prijavite se</string>
+    <string name="calendar_calendar">Kalendar</string>
+    <string name="calendar_daily_plan">Plan dana</string>
+    <string name="calendar_profile">Nalog</string>
+    <string name="dailyPlan_obligations">Pokazite prosle obaveze</string>
+    <string name="dailyPlan_low">Nizak</string>
+    <string name="dailyPlan_mid">Srednji</string>
+    <string name="dailyPlan_high">Visok</string>
+    <string name="profile_change_password">Promeni sifru</string>
+    <string name="profile_log_out">Izloguj me</string>
+    <string name="login_password">Sifra</string>
+    <string name="edit">Prepravi</string>
+    <string name="Delete">Obrisi</string>
+    <string name="Create">Napravi</string>
+    <string name="Cancel">Odustani</string>
+    <string name="save">Sacuvaj</string>
+    <string name="Title">Naslov</string>
+    <string name="Description">Opis</string>
+    <string name="NewPassword">Nova sifra</string>
+    <string name="RetypePassword">"Upisi ponovo "</string>
+    <string name="Mon">Pon.</string>
+    <string name="Tue">Uto.</string>
+    <string name="Wen">Sre.</string>
+    <string name="Thu">Cet.</string>
+    <string name="Fri">Pet.</string>
+    <string name="Sat">Sub.</string>
+    <string name="Sun">Ned.</string>
+</resources>

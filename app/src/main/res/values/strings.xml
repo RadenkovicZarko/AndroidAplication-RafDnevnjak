@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">RafDnevnjakProject</string>
+
+    <string name="login_username">Username</string>
+    <string name="login_email" translatable="false">Email</string>
+    <string name="login_login">Log in</string>
+    <string name="calendar_calendar">Calendar</string>
+    <string name="calendar_daily_plan">Daily plan</string>
+    <string name="calendar_profile">Profile</string>
+    <string name="dailyPlan_obligations">Show past obligations</string>
+    <string name="dailyPlan_low">Low</string>
+    <string name="dailyPlan_mid">Mid</string>
+    <string name="dailyPlan_high">High</string>
+    <string name="profile_change_password">Change password</string>
+    <string name="profile_log_out">Log out</string>
+    <string name="login_password">Password</string>
+    <string name="edit">Edit</string>
+    <string name="Delete">Delete</string>
+    <string name="Create">Create</string>
+    <string name="Cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="Title">Title</string>
+    <string name="Description">Description</string>
+    <string name="NewPassword">New password</string>
+    <string name="RetypePassword">Retype password</string>
+    <string name="Mon">Mon.</string>
+    <string name="Tue">Tue.</string>
+    <string name="Wen">Wen.</string>
+    <string name="Thu">Thu.</string>
+    <string name="Fri">Fri.</string>
+    <string name="Sat">Sat.</string>
+    <string name="Sun">Sun.</string>
+
+</resources>

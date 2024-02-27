@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MySearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <!-- Set text color to white -->
+        <item name="android:textColor">@android:color/white</item>
+        <!-- Remove underline for text -->
+        <item name="queryBackground">@null</item>
+        <item name="android:background">@null</item>
+        <!-- You can add other customizations to the SearchView style here -->
+    </style>
+</resources>

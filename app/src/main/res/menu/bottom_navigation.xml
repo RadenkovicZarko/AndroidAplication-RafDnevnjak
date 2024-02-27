@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/navigation_1"
+        android:icon="@drawable/calendar1"
+        android:title="@string/calendar_calendar"
+        app:iconTint="@color/black"/>
+
+    <item
+        android:id="@+id/navigation_2"
+        android:icon="@drawable/planning"
+        android:title="@string/calendar_daily_plan" />
+
+    <item
+        android:id="@+id/navigation_3"
+        android:icon="@drawable/user"
+        android:title="@string/calendar_profile" />
+</menu>
