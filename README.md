@@ -31,19 +31,36 @@ o change the login details.
 ## Usage
 After logging in, you'll be presented with the calendar view. You can interact with the calendar to view activities for each day. Use the search and filter functionalities to manage your activities effectively. To adjust account settings or log out, navigate to the account management section.
 
-
+--------------------------------------------------------------------
 **1.First you log in with credentials from fajl.txt**
+
+
 <img width="439" alt="Screenshot 2024-02-28 at 00 14 54" src="https://github.com/RadenkovicZarko/AndroidAplication-RafDnevnjak/assets/105305032/cb48a663-be00-430c-985b-38611fd741bd">
 <img width="430" alt="Screenshot 2024-02-28 at 00 15 17" src="https://github.com/RadenkovicZarko/AndroidAplication-RafDnevnjak/assets/105305032/e02d91d3-2490-4f08-b1da-48bc23748fed">
 
+
+------------------------------------------------------------------------------------------------------
 **2.You can scroll up and down and search for some dates. You can click on some date.**
+
+
 <img width="420" alt="Screenshot 2024-02-28 at 00 18 51" src="https://github.com/RadenkovicZarko/AndroidAplication-RafDnevnjak/assets/105305032/4c1f7bc1-e49b-4852-a8d1-a85f0c11d24e">
 
+------------------------------------------------------------------------------------------------------
 **3.You can search some activities for choosen date and fiter them by priority or by name. Also you can add some activity**
+
+
 <img width="428" alt="Screenshot 2024-02-28 at 00 19 03" src="https://github.com/RadenkovicZarko/AndroidAplication-RafDnevnjak/assets/105305032/03260afb-aec2-48d9-b4ad-3ff0e21d4e88">
 
+
+------------------------------------------------------------------------------------------------------
 **4.Adding activity**
+
+
 <img width="420" alt="Screenshot 2024-02-28 at 00 19 23" src="https://github.com/RadenkovicZarko/AndroidAplication-RafDnevnjak/assets/105305032/7c25fad4-2137-4035-9c25-b0e727f58b39">
 
+
+------------------------------------------------------------------------------------------------------
 **5.Account details and password change and log out button**
+
+
 <img width="430" alt="Screenshot 2024-02-28 at 00 19 37" src="https://github.com/RadenkovicZarko/AndroidAplication-RafDnevnjak/assets/105305032/80d978cc-77f8-4c51-953a-607e616a489d">
